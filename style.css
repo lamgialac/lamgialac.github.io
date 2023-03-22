@@ -1,5 +1,4 @@
 body {
 	font-family: "Calibri";
-	background-image: "amogus.gif";
-	background-size: cover;
+	background-image: url('amogus.gif');
 }
